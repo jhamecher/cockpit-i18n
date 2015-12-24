@@ -70,15 +70,15 @@ return [
     'Account saved!' => 'Account gespeichert',
 
     //Groups
-    'Group'=>'Gruppe',
-    'Groups'=>'Gruppen',
-    'Add group'=>'Guppe hinzufügen',
-    'Access'=>'Rechte',
+    'Group' => 'Gruppe',
+    'Groups' => 'Gruppen',
+    'Add group' => 'Gruppe hinzufügen',
+    'Access' => 'Rechte',
     'Manage account groups and permissions' => 'Benutzergruppen und Rechte verwalten',
     'Media root path' => 'Zugriff auf Medienordner',
 
     // Addons
-    'Addons'   => 'Erweiterungen',
+    'Addons' => 'Erweiterungen',
     'No additional addons installed.' => 'Keine zusätzlichen Erweiterungen sind installiert.',
 
     // Collections
